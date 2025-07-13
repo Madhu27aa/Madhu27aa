@@ -10,10 +10,14 @@
 💡  I am a person with spirit and dedication to learn new technology and find cognitive solutions to solve real-time problem. \
 
 📣   I am actively seeking for Software Engineer position anywhere in the US.
+
 🛠  Tech Stack
 Languages: Java, Python, C++,  JavaScript, SQL, MATLAB, Linux
+
 Packages & Frameworks: React, Node.js, MongoDB, Django, Tf, Keras, PyTorch, Scikit-learn, pandas, Numpy, Unity
+
 Machine Learning Technologies: CNN, RNN, LLMs, GenAI, Computer Vision, OpenAI
+
 Cloud & Deployment Tools: Google Cloud, OpenStack, Flask, REST APIs, Docker, AWS (EC2)
 
 🤝🏻  Connect with Me on 
