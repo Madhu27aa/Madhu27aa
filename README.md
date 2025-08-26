@@ -25,7 +25,7 @@ Madhumithaseshaiahr@gmail.com |+91 9791502395 | www.linkedin.com/in/madhumitha-s
 ## 🤝🏻 Connect with Me
 
 📧 **Madhumithaseshaiahr@gmail.com**  
-📞 **+91 9791502395**  
+📞 **++1 8722773993**  
 🔗 [LinkedIn](https://www.linkedin.com/in/madhumitha-seshaiah)  
 💻 [GitHub](https://github.com/Madhu27aa)
 
