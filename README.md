@@ -1,6 +1,6 @@
 👋  Hey there! I'm Madhumitha Seshaiah
 👨🏻‍💻  About Me
-🎓I am a student at Uthe niversity of Illinois, Chicago purusing my Masters in Computer science degree.
+🎓I am a student at the University of Illinois, Chicago, pursuing my Master's in Computer Science degree.
 
 🔭  I was a Research Assistant at the Advanced Machine Learning lab - R.M.K. College of Engineering and Technology
 🔭  I was a Software Development Intern at Idexcel Pvt Ltd
@@ -21,7 +21,7 @@ Machine Learning Technologies: CNN, RNN, LLMs, GenAI, Computer Vision, OpenAI
 Cloud & Deployment Tools: Google Cloud, OpenStack, Flask, REST APIs, Docker, AWS (EC2)
 
 🤝🏻  Connect with Me on 
-Madhumithaseshaiahr@gmail.com |+91 9791502395 | www.linkedin.com/in/madhumitha-seshaiah | https://github.com/Madhu27aa 
+Madhumithaseshaiahr@gmail.com | www.linkedin.com/in/madhumitha-seshaiah | https://github.com/Madhu27aa 
 ## 🤝🏻 Connect with Me
 
 📧 **Madhumithaseshaiahr@gmail.com**  
